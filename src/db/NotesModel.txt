@@ -1,0 +1,10 @@
+NoteModel = {
+  id: {
+    type: integer
+    primaryKey: true
+  }
+  body: {
+    type: string
+  }
+}
+
