@@ -1,0 +1,10 @@
+API
+    create server instance
+    setup routes
+        create endpoints
+            /notes
+                methods
+                    POST
+                        stores request body inside API server
+                            representation
+                                array of objects

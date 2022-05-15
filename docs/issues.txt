@@ -1,0 +1,27 @@
+API
+    resources
+        data
+            notes
+                body
+                representation
+                    JSON
+    testing
+        curl
+        Postman
+    runtime system
+        software
+            Node.js
+                V8
+        hardware
+            local machine
+UI
+    components
+        macOS menubar
+        text input field
+    commands
+        save document
+            user can save 1 document on web server's memory space
+            triggers
+                keyboard shortcut 
+                menubar item
+
