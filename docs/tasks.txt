@@ -5,6 +5,6 @@ API
             /notes
                 methods
                     POST
-                        stores request body inside API server
+                        OK: stores request body inside API server
                             representation
                                 array of objects
